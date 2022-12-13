@@ -1,2 +1,2 @@
-# Open-Notify-API-elixir
+# Open Notify API (elixir)
 Open Nofity API client for elixir
